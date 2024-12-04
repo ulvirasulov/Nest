@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\Nest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|c:\\users\\i novbe\\source\\repos\\nest\\nest\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|solutionrelative:nest\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|c:\\users\\i novbe\\source\\repos\\nest\\nest\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|solutionrelative:nest\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|c:\\users\\i novbe\\source\\repos\\nest\\nest\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25BB986-EBA9-420A-9E14-DB40BD1E1E9E}|Nest\\Nest.csproj|solutionrelative:nest\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nest\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Nest\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:27:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Nest\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Nest\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:16:52.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Nest\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\Nest\\Nest\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Nest\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:08:11.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
